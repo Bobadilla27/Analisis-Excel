@@ -1,10 +1,14 @@
 # Contexto
-Este conjunto de datos contiene información detallada sobre las ventas de una tienda en el año 2024.. ...
+En este documento veremos el trabajo final del análisis de datos de la cafetería CITYBLEND.
 
 ## Objetivo
-**Transformar y visualizar** los datos de manera que permita tomar decisiones a los dueños.
+**Identificar** las transacciones realizadas en tres sucursales.
 
 ## Análisis Final
-- Aumento Estacional
-- Bajo rendimiento.
-- PReferencias de compra
+Se presentan básicamente cinco análisis:
+
+1.- Transacciones.
+2.- Periodo.
+3.- Productos
+4.-Categorías.
+5.- Sucursales.
