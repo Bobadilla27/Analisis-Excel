@@ -8,7 +8,11 @@ En este documento veremos el trabajo final del análisis de datos de la cafeter�
 Se presentan básicamente cinco análisis:
 
 1.- Transacciones.
+
 2.- Periodo.
+
 3.- Productos
+
 4.-Categorías.
+
 5.- Sucursales.
